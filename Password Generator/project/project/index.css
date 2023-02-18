@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    max-width: 500px;
+    height: 450px;
+    background-color: #1e2938;
+    border-radius: 10px;
+}
+
+span {
+    color: #4ed887;
+}
+
+h1 {
+    padding-top: 70px;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+h3 {
+    margin-top: -15px;
+    color: #717781;
+    margin-left: 35px;
+}
+
+
+.border {
+    border: 2px solid #2a3647;
+    width: 85%;
+    margin: auto;
+}
+
+button {
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #4ed887;
+    color: #ffffff;
+    border: none;
+}
+
+input {
+    background: #2a3647;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    color: #62f49e; 
+}
+
+.password-box {
+    margin-left: 40px
+}
